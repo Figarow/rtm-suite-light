@@ -45,7 +45,7 @@ RTM Suite Light bleibt dauerhaft kostenlos nutzbar. Eine erweiterte Edition mit 
 
 ## 💛 Freiwillig unterstützen
 
-Download und Nutzung von RTM Suite Light sind und bleiben kostenlos. Eine finanzielle Unterstützung ist freiwillig, erfolgt ohne Gegenleistung und beeinflusst weder Funktionsumfang noch Updates oder Support.
+Download und Nutzung von RTM Suite Light sind und bleiben kostenlos. Eine finanzielle Unterstützung ist freiwillig, erfolgt ohne Gegenleistung und beeinflusst weder Funktionsumfang noch Updates oder Support. Es handelt sich nicht um eine steuerlich absetzbare Spende im Sinne des österreichischen Spendenrechts; es wird keine Spendenbescheinigung ausgestellt.
 
 **Bitcoin (BTC, Mainnet, Native SegWit):**
 
