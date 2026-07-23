@@ -56,6 +56,20 @@
     <article class="card"><h2>Klare Grenzen</h2><p>Jeder Bericht dokumentiert eine zeitpunktbezogene, begrenzte Prüfung ohne Garantie auf Vollständigkeit. Nutzung nur mit wirksamer Berechtigung.</p></article>
   </section>
 
+  <section class="card" style="margin:0 0 18px">
+    <h2>🛠️ Eingesetzte externe Werkzeuge</h2>
+    <p>RTM Suite Light führt seine Prüfungen nicht isoliert aus, sondern steuert bewährte, separat zu installierende Systemwerkzeuge auf dem eigenen Linux-Rechner an. Diese Werkzeuge sind <strong>nicht</strong> Bestandteil des Downloads und müssen aus einer rechtmäßigen Quelle eigenständig installiert werden:</p>
+    <ul>
+      <li><strong>Nmap</strong> – Netzwerk-Inventar und Schwachstellenübersicht</li>
+      <li><strong>ss</strong> (iproute2) – lokale Analyse offener Verbindungen und Ports</li>
+      <li><strong>nft</strong> (nftables) – Prüfung der Firewall-/Filterregeln</li>
+      <li><strong>journalctl</strong> – Auswertung lokaler System- und Sicherheitsprotokolle</li>
+      <li><strong>xdg-open</strong> – automatisches Öffnen erzeugter PDF-Berichte</li>
+      <li><strong>Python 3, iw, ip, pkexec</strong> – zusätzlich für den Live-Betrieb des Pwnagotchi Radars (RTM Pwn Guard)</li>
+    </ul>
+    <p class="hint">Der Reiter "Systemcheck" zeigt beim Start, welche dieser Werkzeuge auf dem System bereits verfügbar sind.</p>
+  </section>
+
   <section class="card" style="border-color:var(--blue); margin:0 0 18px">
     <h2>🔥 Demnächst: RTM Suite – die absolute Megaversion</h2>
     <p>RTM Suite Light ist die kostenlose Edition mit vollem Funktionsumfang für den lokalen, defensiven Einsatz und
