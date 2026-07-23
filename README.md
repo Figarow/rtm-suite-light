@@ -52,4 +52,4 @@ Nutzung nur gegen Systeme und Netze mit ausdrücklicher Berechtigung des Verfüg
 
 ---
 
-**Anbieter:** SG, Oswaldgasse 27/3/44, 1120 Wien, Österreich · [Kontakt](rechtliches/impressum.html)
+**Anbieter:** SG, Wien, Österreich · [Kontakt](rechtliches/impressum.html)
