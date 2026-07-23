@@ -84,9 +84,14 @@ nach ihren eigenen Datenschutzbedingungen.
 
 Diese Website und der Quellcode-Bereich werden über GitHub Pages gehostet,
 einen Dienst der GitHub, Inc. beziehungsweise GitHub B.V. ("GitHub").
-Verantwortlich für den Inhalt dieser Seite bleibt der oben genannte Anbieter;
-GitHub ist als Hostinganbieter eigenständig für den technischen Betrieb der
-Plattform verantwortlich.
+Verantwortlich für den Inhalt dieser Seite bleibt der oben genannte Anbieter.
+GitHub verarbeitet die beim Hosting und Seitenaufruf anfallenden Zugriffs-
+und Protokolldaten nach seinen eigenen Nutzungs- und Datenschutzbedingungen.
+Welche datenschutzrechtliche Rolle GitHub dabei im Einzelfall einnimmt (z. B.
+als Verantwortlicher, gemeinsam Verantwortlicher oder Auftragsverarbeiter),
+hängt von der jeweiligen konkreten Verarbeitung ab und wird von GitHub selbst
+in seiner Datenschutzerklärung beschrieben; der Anbieter dieser Website nimmt
+insoweit keine abschließende eigene rechtliche Einordnung vor.
 
 Beim Aufruf dieser Seite verarbeitet GitHub nach eigenen Angaben unter
 anderem folgende Daten des Besuchers zu Sicherheits- und Betriebszwecken:
@@ -96,10 +101,12 @@ anderem folgende Daten des Besuchers zu Sicherheits- und Betriebszwecken:
 - Browser- und Geräteinformationen (z. B. User-Agent);
 - weitere technische Protokolldaten des Servers.
 
-IP-Adressen sind personenbezogene Daten. Rechtsgrundlage für diese
-Verarbeitung ist das berechtigte Interesse des Anbieters und von GitHub an
-einer sicheren, stabilen und technisch zuverlässigen Bereitstellung der
-Website gemäß Art. 6 Abs. 1 lit. f DSGVO.
+IP-Adressen sind personenbezogene Daten. Rechtsgrundlage für die
+Verarbeitung durch den Anbieter dieser Website ist dessen berechtigtes
+Interesse an einer sicheren, stabilen und technisch zuverlässigen
+Bereitstellung der Website gemäß Art. 6 Abs. 1 lit. f DSGVO. Für die
+eigenständige Verarbeitung durch GitHub gelten die von GitHub selbst
+angegebenen Rechtsgrundlagen.
 
 Empfänger dieser Daten ist GitHub als Hostinganbieter. Eine Verarbeitung kann
 dabei auch auf Servern in den Vereinigten Staaten oder anderen Ländern
@@ -108,9 +115,10 @@ solche Übermittlungen unter anderem die EU-Standardvertragsklauseln als
 Übermittlungsgrundlage zu verwenden.
 
 Die Speicherdauer dieser Protokolldaten richtet sich nach den eigenen
-Aufbewahrungsfristen von GitHub. Einzelheiten, insbesondere zu Art, Umfang
-und Dauer der Verarbeitung sowie zu den Betroffenenrechten gegenüber GitHub,
-sind der GitHub-Datenschutzerklärung zu entnehmen:
+Aufbewahrungsfristen von GitHub. Einzelheiten, insbesondere zur genauen
+datenschutzrechtlichen Rolle, zu Art, Umfang und Dauer der Verarbeitung
+sowie zu den Betroffenenrechten gegenüber GitHub, sind ausschließlich der
+GitHub-Datenschutzerklärung zu entnehmen:
 
 https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
 
