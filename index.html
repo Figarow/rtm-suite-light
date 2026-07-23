@@ -6,9 +6,9 @@
   <meta name="description" content="RTM Suite Light 1.0 kostenlos herunterladen. Defensive Sicherheitsprüfungen und passives Pwnagotchi Radar für Linux.">
   <title>RTM Suite Light 1.0 – kostenloser Download</title>
   <style>
-    :root { color-scheme: dark; --bg:#050b14; --card:#0d1b28; --line:#243b4d; --text:#e6f0f8; --muted:#a8bdcc; --green:#68ff30; --blue:#2da8ff; --amber:#ffb52e; }
+    :root { color-scheme: dark; --bg:#080d18; --card:#0d1524; --elevated:#121d30; --line:#273448; --text:#f1f5f9; --muted:#94a3b8; --green:#21d39e; --blue:#438bff; --amber:#f59e0b; --danger:#f43f5e; --console:#050a14; }
     * { box-sizing:border-box; }
-    body { margin:0; font:16px/1.6 system-ui,sans-serif; color:var(--text); background:radial-gradient(circle at top,#123149 0,var(--bg) 48%); }
+    body { margin:0; font:16px/1.6 system-ui,sans-serif; color:var(--text); background:radial-gradient(circle at top,var(--elevated) 0,var(--bg) 48%); }
     main, footer { width:min(960px,calc(100% - 32px)); margin:auto; }
     header { padding:72px 0 40px; text-align:center; }
     h1 { margin:0; font-size:clamp(2.2rem,7vw,4.6rem); letter-spacing:-.04em; }
@@ -22,11 +22,12 @@
     .support { border-color:var(--amber); }
     .video-card { margin:0 0 28px; text-align:center; }
     video { width:100%; max-width:960px; border:1px solid var(--line); border-radius:12px; background:#000; }
-    .address { overflow-wrap:anywhere; padding:12px; border-radius:8px; background:#07111b; font-family:ui-monospace,monospace; }
+    .address { overflow-wrap:anywhere; padding:12px; border-radius:8px; background:var(--console); border:1px solid var(--line); font-family:ui-monospace,monospace; }
     .qr { width:180px; max-width:100%; padding:10px; background:white; border-radius:10px; }
+    .security { border-color:var(--danger); }
     footer { padding:30px 0 50px; color:var(--muted); border-top:1px solid var(--line); }
     .legal { display:flex; flex-wrap:wrap; gap:8px 16px; margin-top:12px; }
-    a { color:#7bc8ff; }
+    a { color:var(--blue); }
   </style>
 </head>
 <body>
@@ -104,7 +105,7 @@
     <p class="hint">Adresse und Netzwerk vor dem Senden in der eigenen Wallet vollständig prüfen. Transaktionen sind unumkehrbar.</p>
   </section>
 
-  <section class="card" style="margin:0 0 18px">
+  <section class="card security" style="margin:0 0 18px">
     <h2>🔒 Sicherheitslücken melden</h2>
     <p>Für Hinweise zu Sicherheitslücken in RTM Suite Light oder RTM Pwn Guard:
     <a href="mailto:birdwithbeard@gmx.at?subject=Sicherheitsmeldung%20RTM%20Suite%20Light">birdwithbeard@gmx.at</a></p>
@@ -141,7 +142,7 @@
   E-Mail: <a href="mailto:birdwithbeard@gmx.at">birdwithbeard@gmx.at</a><br>
   <a href="rechtliches/impressum.html">Impressum und Kontaktangaben</a><br>
   <p class="hint">
-    <img src="https://hits.sh/figarow.github.io/rtm-suite-light.svg?label=Besucher&color=2da8ff" alt="Besucherzähler">
+    <img src="https://hits.sh/figarow.github.io/rtm-suite-light.svg?label=Besucher&color=438bff" alt="Besucherzähler">
   </p>
 </footer>
 </body>
