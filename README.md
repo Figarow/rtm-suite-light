@@ -17,6 +17,15 @@ RTM Suite Light ist die kostenlose, proprietäre Edition (keine Open-Source-Lize
 
 Alle Details, Download-Paket (mit SHA-256-Prüfsummen), Vorstellungsvideo und rechtliche Hinweise findest du auf der **[Downloadseite](https://figarow.github.io/rtm-suite-light/)**.
 
+## 💾 Downloads
+
+| Plattform | Status | Paket |
+|---|---|---|
+| Linux | ✅ getestet | [RTM-Suite-Light-1.0-linux.zip](https://figarow.github.io/rtm-suite-light/downloads/RTM-Suite-Light-1.0-linux.zip) |
+| Windows | ⚠️ **Experimental** | [RTM-Suite-Light-1.0-windows-EXPERIMENTAL.zip](https://figarow.github.io/rtm-suite-light/downloads/RTM-Suite-Light-1.0-windows-EXPERIMENTAL.zip) |
+
+Die Windows-Version enthält einen Installer sowie eine portable Variante inklusive mitgelieferter Java-Laufzeit. Sie ist als **Experimental** gekennzeichnet, da sie bislang nicht auf echter Windows-Hardware verifiziert wurde. Der Pwnagotchi Radar benötigt unter Windows zusätzlich eine WSL2-Brücke mit externem, monitor-mode-fähigem USB-WLAN-Adapter (Anleitung im Paket enthalten). Rückmeldungen und Fehlerberichte sind ausdrücklich willkommen (siehe Sicherheitslücken-Kontakt unten).
+
 ## 🛠️ Eingesetzte externe Werkzeuge
 
 RTM Suite Light führt seine Prüfungen nicht isoliert aus, sondern steuert bewährte, separat zu installierende Systemwerkzeuge auf dem eigenen Linux-Rechner an. Diese Werkzeuge sind **nicht** Bestandteil des Downloads und müssen aus einer rechtmäßigen Quelle eigenständig installiert werden:

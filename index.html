@@ -35,8 +35,16 @@
     <div class="tag">Kostenlos · lokal · defensiv</div>
     <h1>RTM Suite Light 1.0</h1>
     <p class="lead">Defensive Security Workbench für Linux mit Netzwerk-Inventar, Sicherheitsbaseline, Blue-Team-Audit und dem passiven Pwnagotchi Radar.</p>
-    <a class="button" href="downloads/RTM-Suite-Light-1.0-linux.zip" download>Kostenlos herunterladen</a>
+    <a class="button" href="downloads/RTM-Suite-Light-1.0-linux.zip" download>Kostenlos herunterladen (Linux)</a>
     <p class="hint">Linux · Java 17+ · SHA-256-Prüfsummen im Paket</p>
+    <p>
+      <a class="button" href="downloads/RTM-Suite-Light-1.0-windows-EXPERIMENTAL.zip" download>Windows-Version herunterladen (Experimental)</a>
+    </p>
+    <p class="hint">⚠️ <strong>Experimental:</strong> Windows-Version mit Installer und portabler Variante,
+    inkl. mitgelieferter Java-Laufzeit. Der Pwnagotchi Radar benötigt unter Windows zusätzlich eine
+    WSL2-Brücke mit externem USB-WLAN-Adapter (Anleitung im Paket enthalten). Diese Windows-Version wurde
+    bislang nicht auf echter Windows-Hardware verifiziert – Rückmeldungen sind willkommen, siehe
+    „Sicherheitslücken melden“ unten.</p>
     <p class="hint">Kostenlose, proprietäre Software (keine Open-Source-Lizenz). Mit Download und Nutzung gelten die
     <a href="rechtliches/EULA-LIZENZVERTRAG.txt">EULA</a> und die <a href="rechtliches/HAFTUNGSBEGRENZUNG.txt">Sicherheitshinweise</a>.</p>
   </header>
@@ -103,8 +111,9 @@
 
   <section class="card" style="margin:18px 0 38px">
     <h2>Systemvoraussetzungen</h2>
-    <p>Linux-Desktop, Java 17 oder neuer und Nmap. Einzelne lokale Audits benötigen ss, nft und journalctl. Das Live-Radar benötigt zusätzlich Python 3, iw, ip, pkexec und einen WLAN-Adapter mit Monitor-Modus; die Demo funktioniert ohne Funkzugriff.</p>
-    <p><a href="downloads/SHA256SUMS">Prüfsumme des Downloads</a></p>
+    <p><strong>Linux (empfohlen, vollständig getestet):</strong> Linux-Desktop, Java 17 oder neuer und Nmap. Einzelne lokale Audits benötigen ss, nft und journalctl. Das Live-Radar benötigt zusätzlich Python 3, iw, ip, pkexec und einen WLAN-Adapter mit Monitor-Modus; die Demo funktioniert ohne Funkzugriff.</p>
+    <p><strong>Windows (Experimental):</strong> Windows 10/11 64-Bit. Java-Laufzeit ist im Paket enthalten. Der Pwnagotchi Radar erfordert zusätzlich WSL2 und einen externen USB-WLAN-Adapter mit monitor-mode-fähigem Chipsatz (Anleitung im Paket unter „windows-bruecke“).</p>
+    <p><a href="downloads/SHA256SUMS">Prüfsummen der Downloads</a></p>
     <nav class="legal" aria-label="Rechtliche Hinweise">
       <a href="rechtliches/impressum.html">Impressum</a>
       <a href="rechtliches/DATENSCHUTZHINWEISE.txt">Datenschutz</a>
