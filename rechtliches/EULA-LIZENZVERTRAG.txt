@@ -1,0 +1,96 @@
+ENDNUTZER-LIZENZVERTRAG (EULA)
+RTM Suite Light, Version 1.0
+Stand: 19. Juli 2026
+========================================
+
+Lizenzgeber und Urheber:
+Stefan Gerken
+Oswaldgasse 27/3/44
+1120 Wien
+Österreich
+
+1. VERTRAGSGEGENSTAND
+
+Diese Bedingungen regeln die Nutzung der proprietären Software "RTM Suite
+Light" einschließlich des mitgelieferten Add-ons RTM Pwn Guard und der
+Dokumentation. Separat installierte Drittprogramme unterliegen ihren eigenen
+Bedingungen.
+
+2. KOSTENLOSE BEREITSTELLUNG
+
+Die Software wird unentgeltlich zum Download bereitgestellt. Eine freiwillige
+finanzielle Unterstützung ist keine Voraussetzung für Download, Nutzung,
+Funktionsumfang, Updates oder Support und begründet keinen Kaufvertrag über die
+Software. Die Unterstützungsentscheidung und deren Höhe sind vollständig frei.
+
+3. LIZENZEINRÄUMUNG
+
+Der Lizenzgeber räumt jedem Nutzer unentgeltlich ein einfaches, nicht
+ausschließliches, zeitlich unbefristetes Recht ein, die Software auf eigenen
+Geräten zu installieren und für rechtmäßige Zwecke zu verwenden.
+
+Unveränderte vollständige Kopien des Originalpakets dürfen unentgeltlich
+weitergegeben werden, wenn alle Urheber-, Lizenz-, Sicherheits- und
+Herkunftshinweise erhalten bleiben. Verkauf, Vermietung, entgeltliche
+Unterlizenzierung, veränderte Weiterverbreitung und Einbindung in ein eigenes
+kommerzielles Produkt bedürfen der vorherigen schriftlichen Zustimmung.
+Zwingende gesetzliche Rechte bleiben unberührt.
+
+4. ZULÄSSIGER ZWECK
+
+Die Software ist für defensive Sicherheitsanalysen, autorisierte
+Netzwerkinventarisierung und Prüfungen eigener oder ausdrücklich freigegebener
+Systeme und Funkumgebungen bestimmt. Vor jedem Einsatz muss eine wirksame
+Berechtigung für Ziel, Umfang und Zeitraum vorliegen.
+
+Untersagt sind insbesondere:
+
+- Scans, Funkerfassung oder Prüfungen ohne erforderliche Berechtigung;
+- rechtswidrige Überwachung oder Identifizierung von Personen;
+- Vorbereitung oder Durchführung rechtswidriger Zugriffe;
+- Umgehung von Schutzmaßnahmen außerhalb eines genehmigten Prüfauftrags;
+- Erweiterung des passiven Radars um Stör- oder Angriffsfunktionen.
+
+5. ÄNDERUNGEN UND ANALYSE
+
+Urheber-, Marken- und Herkunftshinweise dürfen nicht entfernt werden.
+Gesetzlich zwingend erlaubte Dekompilierung, Interoperabilitätsanalyse,
+Fehlerbehebung und Sicherung bleiben im vorgeschriebenen Umfang zulässig.
+
+6. ERGEBNISSE UND VERANTWORTUNG
+
+Ergebnisse sind technische Momentaufnahmen mit begrenztem Prüfbereich. Sie sind
+weder Zertifizierung noch Garantie für Sicherheit, Identität, Standort,
+Fehlerfreiheit oder Vollständigkeit. Der Nutzer entscheidet eigenverantwortlich
+über Ziele, Freigaben, Bewertung und Maßnahmen.
+
+7. UPDATES UND SUPPORT
+
+Umfang und Bereitstellung ergeben sich aus SUPPORT-UND-UPDATES.txt. Es besteht
+kein Anspruch auf individuelle Beratung oder eine bestimmte Reaktions- oder
+Lösungsfrist. Zwingende gesetzliche Rechte bleiben unberührt.
+
+8. DATENSCHUTZ
+
+Die lokale Verarbeitung ist in DATENSCHUTZHINWEISE.txt beschrieben. Der Nutzer
+ist für die Rechtmäßigkeit der von ihm verarbeiteten Daten verantwortlich.
+
+9. VERTRAGSDAUER UND BEENDIGUNG
+
+Die Lizenz gilt unbefristet. Bei wesentlicher Vertragsverletzung kann der
+Lizenzgeber die Nutzungsrechte nach erfolgloser angemessener Abhilfeaufforderung
+beenden; bei vorsätzlicher rechtswidriger Nutzung ist eine sofortige Beendigung
+zulässig. Zwingende gesetzliche Rechte bleiben unberührt.
+
+10. ANWENDBARES RECHT
+
+Es gilt österreichisches Recht unter Ausschluss des UN-Kaufrechts. Gegenüber
+Verbrauchern gilt diese Rechtswahl nur, soweit dadurch zwingender Schutz des
+Staates ihres gewöhnlichen Aufenthalts nicht entzogen wird. Gesetzliche
+Gerichtsstände bleiben unberührt.
+
+11. SCHLUSSBESTIMMUNGEN
+
+Individuelle Vereinbarungen und zwingendes Recht gehen vor. Sollte eine
+Bestimmung unwirksam sein, bleiben die übrigen Bestimmungen wirksam; an ihre
+Stelle tritt die gesetzliche Regelung.

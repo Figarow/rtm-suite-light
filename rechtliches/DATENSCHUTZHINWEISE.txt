@@ -1,0 +1,81 @@
+DATENSCHUTZHINWEISE
+RTM Suite Light, Version 1.0
+Stand: 19. Juli 2026
+========================================
+
+Verantwortlicher für freiwillig an den Anbieter übermittelte Supportdaten:
+Stefan Gerken
+Oswaldgasse 27/3/44
+1120 Wien
+Österreich
+
+1. LOKALE VERARBEITUNG
+
+Die ausgelieferte Version besitzt keine Telemetrie, Benutzerkonten,
+Cloudanbindung oder automatische Übertragung von Scan- und Nutzungsdaten an den
+Anbieter. Die Anwendung verarbeitet Daten lokal auf dem System des Nutzers.
+
+Je nach gewählter Prüfung können insbesondere folgende Daten verarbeitet
+werden:
+
+- IP-Adressen, Hostnamen, Ports, Dienste und Versionsinformationen;
+- lokale Netzwerk- und Firewallkonfiguration;
+- Systemhärtungseinstellungen;
+- Authentifizierungs- und Systemereignisse aus dem lokalen Journal;
+- daraus erzeugte Findings, CSV-Dateien und PDF-Berichte.
+
+Diese Daten werden in den lokalen Verzeichnissen "evidence" und "reports"
+gespeichert, bis der Nutzer sie löscht. Die Anwendung übermittelt sie nicht
+selbstständig an Dritte.
+
+2. VERANTWORTUNG BEIM EINSATZ
+
+Der Betreiber der Software entscheidet über Ziele, Umfang, Rechtsgrundlage,
+Speicherdauer und Empfänger der Scanergebnisse. Soweit dabei personenbezogene
+Daten verarbeitet werden, ist grundsätzlich der Betreiber für die Einhaltung
+der DSGVO und sonstiger anwendbarer Datenschutzregeln verantwortlich.
+
+Reports und Evidence-Dateien sind angemessen gegen unberechtigten Zugriff zu
+schützen und nach Wegfall ihres Zwecks sicher zu löschen. Vor Weitergabe oder
+Supportübermittlung sind nicht benötigte personenbezogene Daten zu entfernen
+oder zu anonymisieren.
+
+3. SUPPORTDATEN
+
+Übermittelt ein Nutzer freiwillig Fehlerbeschreibungen, Logs oder Reports an
+den Anbieter, erfolgt die Verarbeitung zur Bearbeitung der Anfrage und sicheren
+Produktpflege gemäß Art. 6 Abs. 1 lit. f DSGVO oder auf Grundlage einer
+Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO.
+
+Supportdaten werden nur so lange gespeichert, wie dies für Bearbeitung,
+Nachweis und gesetzliche Aufbewahrung erforderlich ist. Technische Anhänge
+werden grundsätzlich spätestens 90 Tage nach Abschluss des Vorgangs gelöscht,
+sofern keine gesetzliche Pflicht oder notwendige Rechtsverteidigung eine
+längere Speicherung verlangt.
+
+Eine Weitergabe erfolgt nur, wenn sie zur Supportleistung erforderlich,
+gesetzlich vorgeschrieben oder ausdrücklich freigegeben ist. Eine Übermittlung
+in Drittländer ist für den regulären lokalen Betrieb nicht vorgesehen.
+
+4. RECHTE BETROFFENER PERSONEN
+
+Betroffene haben nach Maßgabe der DSGVO Rechte auf Auskunft, Berichtigung,
+Löschung, Einschränkung, Datenübertragbarkeit und Widerspruch. Anfragen können
+postalisch an die oben genannte Anschrift gerichtet werden. Zudem besteht ein
+Beschwerderecht bei der Österreichischen Datenschutzbehörde:
+
+Österreichische Datenschutzbehörde, Barichgasse 40-42, 1030 Wien
+https://www.dsb.gv.at/
+
+5. VERTRIEBSPLATTFORMEN
+
+Zahlungs-, Shop-, Download- oder Newsletterdienste sind nicht Bestandteil der
+Anwendung. Werden solche Dienste für den Vertrieb eingesetzt, gelten ergänzend
+die dort vor Vertragsschluss bereitgestellten Datenschutzhinweise.
+
+6. FREIWILLIGE BITCOIN-UNTERSTÜTZUNG
+
+Die Anwendung und die lokale Downloadseite übertragen keine Zahlungsdaten.
+Bitcoin-Transaktionen werden im öffentlichen Bitcoin-Netzwerk verarbeitet und
+sind dort dauerhaft einsehbar. Wallet-, Börsen- oder Zahlungsdienste handeln
+nach ihren eigenen Datenschutzbedingungen.

@@ -1,0 +1,46 @@
+HAFTUNGSBEGRENZUNG UND SICHERHEITSHINWEISE
+RTM Suite Light, Version 1.0
+Stand: 19. Juli 2026
+========================================
+
+Anbieter:
+Stefan Gerken, Oswaldgasse 27/3/44, 1120 Wien, Österreich
+
+1. TECHNISCHE GRENZEN
+
+RTM Suite Light automatisiert begrenzte, zeitpunktbezogene Prüfungen und
+wertet Ausgaben externer Werkzeuge aus. Ergebnisse können falsch positiv,
+falsch negativ, unvollständig oder durch Konfiguration, Berechtigungen,
+Netzwerkbedingungen und Werkzeugversionen beeinflusst sein.
+
+Die Bezeichnungen "BESTANDEN", "WARNUNG" und "ALARM" sind technische
+Einordnungen innerhalb des ausgeführten Profils. "BESTANDEN" bedeutet nur,
+dass in diesem Prüfumfang keine entsprechende Warnung erkannt wurde.
+
+2. KEINE SICHERHEITSGARANTIE
+
+Die Software ersetzt weder ein vollständiges Sicherheitsaudit noch fachliche,
+rechtliche oder organisatorische Beratung. Berichte stellen keine
+Zertifizierung und keine Zusicherung eines bestimmten Sicherheitsniveaus dar.
+Vor Änderungen an Produktivsystemen sind Ergebnisse fachlich zu bestätigen,
+Backups anzulegen und betriebliche Freigaben einzuholen.
+
+3. VERANTWORTUNG DES NUTZERS
+
+Der Nutzer trägt die Verantwortung für Berechtigung, Zielauswahl, Scanintensität,
+Zeitpunkt, Datensicherung und die rechtmäßige Verarbeitung der Ergebnisse. Für
+rechtswidrige oder vertragswidrige Nutzung haftet der Nutzer nach den
+gesetzlichen Vorschriften.
+
+4. GESETZLICHE HAFTUNG
+
+Die Software wird kostenlos bereitgestellt. Für Schäden gelten die zwingenden
+gesetzlichen Haftungsregeln. Insbesondere werden Haftung für Vorsatz, grobe
+Fahrlässigkeit, Verletzung von Leben, Körper oder Gesundheit sowie zwingende
+Produkt- und Verbraucherrechte nicht ausgeschlossen oder beschränkt.
+
+5. EXTERNE KOMPONENTEN
+
+Funktionsfähigkeit und Ergebnisse hängen teilweise von separat installierten
+Komponenten wie Nmap, Java, ss, nft und journalctl ab. Für diese Komponenten
+gelten die Bedingungen und Gewährleistungen ihrer jeweiligen Anbieter.

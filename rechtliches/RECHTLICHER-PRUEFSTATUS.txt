@@ -1,0 +1,15 @@
+RECHTLICHER PRÜFSTATUS
+RTM Suite Light, Version 1.0
+Stand: 21. Juli 2026
+========================================
+
+Dieser Produktstand ist technisch für eine rechtliche Prüfung vorbereitet.
+
+Die Kennzeichnung bedeutet nicht, dass bereits eine anwaltliche Prüfung,
+behördliche Freigabe oder Bestätigung der Rechtskonformität erfolgt ist.
+Insbesondere EULA, Haftungsbegrenzung, Datenschutz-, Drittanbieter-, Support-
+und Veröffentlichungshinweise sind durch eine fachlich qualifizierte Stelle
+für die vorgesehenen Vertriebsgebiete und Nutzungsszenarien zu prüfen.
+
+Bis zum Abschluss dieser Prüfung ist dieser Stand als Prüfstand und nicht als
+rechtlich freigegebene Veröffentlichung zu behandeln.

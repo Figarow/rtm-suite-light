@@ -1,0 +1,63 @@
+DRITTANBIETER- UND HERKUNFTSHINWEISE
+RTM Suite Light, Version 1.0
+Stand: 19. Juli 2026
+========================================
+
+1. AUSLIEFERUNGSUMFANG
+
+Das Vertriebspaket enthält den Anwendungscode von RTM Suite Light, das
+mitgelieferte Add-on RTM Pwn Guard, das RTM-Bildmotiv und die Dokumentation. Es
+enthält keine
+ausführbaren Kopien, Quelltexte oder Datenbanken der nachfolgend genannten
+Drittprogramme.
+
+2. NMAP
+
+Netzwerk- und Schwachstellenprüfungen verwenden eine vom Nutzer separat
+installierte Kopie des Nmap Security Scanner. Nmap wird weder mitgeliefert noch
+automatisch heruntergeladen.
+
+Projekt: Nmap Security Scanner
+Anbieter: Nmap Software LLC
+Website: https://nmap.org/
+Lizenzinformationen: https://nmap.org/npsl/
+
+Nmap ist ein Kennzeichen seines jeweiligen Rechteinhabers. Die Nennung dient
+nur der Beschreibung der Kompatibilität. RTM Suite Light ist kein offizielles
+Nmap-Produkt und wird von Nmap Software LLC nicht unterstützt oder bestätigt.
+Nutzer müssen Nmap rechtmäßig beziehen und dessen Lizenzbedingungen einhalten.
+
+3. JAVA
+
+Das Paket enthält keine Java-Laufzeitumgebung. Es benötigt eine separat
+installierte, kompatible Java Runtime ab Version 17. Lizenz und Support richten
+sich nach dem vom Nutzer gewählten Java-Anbieter. "Java" kann ein Kennzeichen
+von Oracle und/oder dessen verbundenen Unternehmen sein.
+
+4. LINUX-SYSTEMWERKZEUGE
+
+Lokale Prüfungen können die vorhandenen Programme ss, nft und journalctl sowie
+xdg-open verwenden. Diese werden nicht mitgeliefert. Sie stammen üblicherweise
+aus iproute2, nftables, systemd beziehungsweise xdg-utils und unterliegen den
+Lizenzbedingungen der installierten Linux-Distribution und ihrer jeweiligen
+Urheber.
+
+5. BILDMOTIV
+
+Die Datei assets/rtm_profilpic.png wurde unter Einsatz von OpenAI gpt-image
+erzeugt und enthält C2PA-Herkunftsmetadaten. Die kommerzielle Nutzung richtet
+sich ergänzend nach den für die Erzeugung geltenden OpenAI-Bedingungen.
+Unabhängig davon dürfen Rechte Dritter, insbesondere Marken- und
+Persönlichkeitsrechte, nicht verletzt werden.
+
+6. KEINE RECHTEEINRÄUMUNG AN DRITTMARKEN
+
+Durch diesen Hinweis werden keine Rechte an Namen, Marken oder Software Dritter
+übertragen. Alle Rechte verbleiben bei den jeweiligen Inhabern.
+
+7. PWNAGOTCHI-KOMPATIBILITÄTSHINWEIS
+
+"Pwnagotchi" wird ausschließlich beschreibend für die passive
+Indikatorerkennung verwendet. Das Paket enthält keinen Pwnagotchi-Code, ist kein
+offizielles Pwnagotchi-Produkt und wird durch dessen Projekt oder Mitwirkende
+weder unterstützt noch bestätigt.

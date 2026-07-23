@@ -1,0 +1,42 @@
+SUPPORT- UND UPDATEHINWEISE
+RTM Suite Light, Version 1.0
+Stand: 20. Juli 2026
+========================================
+
+Anbieter:
+Stefan Gerken, Oswaldgasse 27/3/44, 1120 Wien, Österreich
+
+1. UNTERSTÜTZTE UMGEBUNG
+
+Vorgesehen ist ein gepflegter Linux-Desktop mit Java 17 oder neuer. Die
+Hauptanwendung setzt kompatible, separat installierte Versionen von Nmap, ss,
+nft, journalctl und xdg-open voraus. Das Pwnagotchi Radar benötigt zusätzlich
+Python 3, iw, ip, pkexec und für den Live-Betrieb einen WLAN-Adapter mit
+Monitor-Modus.
+
+2. KOSTENLOSE BEREITSTELLUNG
+
+Download und Nutzung sind kostenlos. Freiwillige finanzielle Unterstützung
+begründet keinen Anspruch auf Zusatzfunktionen, bevorzugte Bearbeitung,
+individuellen Support oder Updates.
+
+3. PRODUKTPFLEGE
+
+Bestätigte sicherheitsrelevante Fehler und notwendige Kompatibilitätsprobleme
+können nach Verfügbarkeit in künftigen Versionen behoben werden. Es gibt keinen
+automatischen Updater. Neue Versionen und wichtige Sicherheitshinweise werden
+über denselben Veröffentlichungskanal wie der Download bereitgestellt.
+
+Nutzer sind für die Prüfung verfügbarer Versionen, zeitnahe Installation und
+vorherige Datensicherung verantwortlich.
+
+4. SUPPORT
+
+Fehlerhinweise können über den auf der Veröffentlichungsseite genannten Kanal
+oder postalisch an die oben genannte Anschrift übermittelt werden. Es besteht
+kein Anspruch auf individuelle Beratung oder eine bestimmte Reaktions- oder
+Lösungsfrist.
+
+Nicht umfasst sind Administration fremder Systeme, individuelle
+Pentestberatung, Datenwiederherstellung, Rechtsberatung oder Support für
+Drittprogramme. Zwingende gesetzliche Rechte bleiben unberührt.
