@@ -8,7 +8,7 @@
 
 ## 🚀 Was ist RTM Suite Light?
 
-RTM Suite Light ist die freie Edition der RTM Suite für autorisierte, defensive Sicherheitsprüfungen auf dem eigenen Linux-System:
+RTM Suite Light ist die kostenlose, proprietäre Edition (keine Open-Source-Lizenz) der RTM Suite für autorisierte, defensive Sicherheitsprüfungen auf dem eigenen Linux-System:
 
 - 🔍 Netzwerk-Inventar & Schwachstellenübersicht
 - 🛡️ Sicherheitsbaseline & Blue-Team-Audit
@@ -30,19 +30,13 @@ RTM Suite Light führt seine Prüfungen nicht isoliert aus, sondern steuert bew�
 
 Der Reiter "Systemcheck" zeigt beim Start, welche dieser Werkzeuge auf dem System bereits verfügbar sind.
 
-## 🔥 Demnächst: RTM Suite — die absolute Megaversion
+## Erweiterte Edition in Vorbereitung
 
-Die kostenlose Light-Edition bleibt dauerhaft frei nutzbar. Parallel dazu ist die **RTM Suite Vollversion** in Vorbereitung — die absolute Megaversion mit deutlich erweitertem Funktionsumfang:
-
-- Erweiterte Auswertungen & tiefere Analysen
-- Zusätzliche Prüfprofile
-- Weiterführende Reporting-Funktionen
-
-Die Ankündigung der Vollversion erfolgt über denselben Kanal wie dieser Download — schau also gerne ab und zu wieder vorbei oder beobachte ("Watch") dieses Repository.
+RTM Suite Light bleibt dauerhaft kostenlos nutzbar. Eine erweiterte Edition mit zusätzlichen Analyse- und Berichtsfunktionen ist geplant. Informationen zu Lizenzmodell, Preis und Verfügbarkeit werden vor Veröffentlichung gesondert über denselben Kanal wie dieser Download bereitgestellt.
 
 ## 💛 Freiwillig unterstützen
 
-Download und Nutzung von RTM Suite Light sind und bleiben kostenlos. Eine Unterstützung ist rein freiwillig und beeinflusst weder Funktionsumfang noch Updates oder Support.
+Download und Nutzung von RTM Suite Light sind und bleiben kostenlos. Eine finanzielle Unterstützung ist freiwillig, erfolgt ohne Gegenleistung und beeinflusst weder Funktionsumfang noch Updates oder Support.
 
 **Bitcoin (BTC, Mainnet, Native SegWit):**
 
@@ -52,6 +46,10 @@ bc1q7ej6cte24zrz8z8z5m2fcs7jcql6wuve6659hk
 
 Den passenden QR-Code findest du unter [`assets/bitcoin-unterstuetzung.png`](assets/bitcoin-unterstuetzung.png). Bitte Adresse und Netzwerk vor dem Senden in der eigenen Wallet vollständig prüfen — Bitcoin-Transaktionen sind unumkehrbar.
 
+## 🔒 Sicherheitslücken melden
+
+Für Hinweise zu Sicherheitslücken in RTM Suite Light oder RTM Pwn Guard: [birdwithbeard@gmx.at](mailto:birdwithbeard@gmx.at?subject=Sicherheitsmeldung%20RTM%20Suite%20Light). Bitte betroffene Version, Reproduktionsschritte und Auswirkungen beschreiben, keine ungeschwärzten echten Scan-/Evidence-Daten mitsenden und vor Veröffentlichung von Details eine angemessene Behebungsfrist einräumen. Unterstützt wird die aktuell veröffentlichte Version 1.0.
+
 ## 📜 Rechtliches
 
 - [EULA / Lizenzvertrag](rechtliches/EULA-LIZENZVERTRAG.txt)
@@ -59,6 +57,7 @@ Den passenden QR-Code findest du unter [`assets/bitcoin-unterstuetzung.png`](ass
 - [Datenschutzhinweise](rechtliches/DATENSCHUTZHINWEISE.txt)
 - [Drittanbieterhinweise](rechtliches/DRITTANBIETERHINWEISE.txt)
 - [Support und Updates](rechtliches/SUPPORT-UND-UPDATES.txt)
+- [Rechtlicher Hinweis zum Prüfstatus](rechtliches/RECHTLICHER-PRUEFSTATUS.txt)
 - [Impressum](rechtliches/impressum.html)
 
 Nutzung nur gegen Systeme und Netze mit ausdrücklicher Berechtigung des Verfügungsberechtigten.
