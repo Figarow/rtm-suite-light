@@ -8,25 +8,57 @@
   <style>
     :root { color-scheme: dark; --bg:#050b14; --card:#0d1b28; --line:#243b4d; --text:#e6f0f8; --muted:#a8bdcc; --green:#68ff30; --blue:#2da8ff; --amber:#ffb52e; }
     * { box-sizing:border-box; }
-    body { margin:0; font:16px/1.6 system-ui,sans-serif; color:var(--text); background:radial-gradient(circle at top,#123149 0,var(--bg) 48%); }
+    body {
+      margin:0; font:16px/1.65 "Segoe UI",system-ui,sans-serif; color:var(--text);
+      background:
+        radial-gradient(circle at 15% 0%, rgba(45,168,255,.20) 0, transparent 45%),
+        radial-gradient(circle at 85% 10%, rgba(104,255,48,.12) 0, transparent 40%),
+        radial-gradient(circle at top,#123149 0,var(--bg) 55%);
+      background-attachment:fixed;
+    }
     main, footer { width:min(960px,calc(100% - 32px)); margin:auto; }
-    header { padding:72px 0 40px; text-align:center; }
-    h1 { margin:0; font-size:clamp(2.2rem,7vw,4.6rem); letter-spacing:-.04em; }
+    header { padding:80px 0 40px; text-align:center; }
+    h1 {
+      margin:0; font-size:clamp(2.2rem,7vw,4.6rem); letter-spacing:-.04em; font-weight:900;
+      background:linear-gradient(120deg,#fff 20%,var(--blue) 60%,var(--green) 100%);
+      -webkit-background-clip:text; background-clip:text; color:transparent;
+      text-shadow:0 0 60px rgba(45,168,255,.25);
+    }
     h2 { margin-top:0; }
-    .tag { color:var(--green); font-weight:800; text-transform:uppercase; letter-spacing:.12em; }
+    .tag {
+      display:inline-block; color:var(--green); font-weight:800; text-transform:uppercase; letter-spacing:.14em;
+      padding:6px 16px; border:1px solid rgba(104,255,48,.35); border-radius:999px; background:rgba(104,255,48,.08);
+      font-size:.8rem; margin-bottom:6px;
+    }
     .lead { max-width:720px; margin:18px auto 28px; color:var(--muted); font-size:1.15rem; }
-    .button { display:inline-block; padding:14px 22px; border-radius:10px; background:var(--blue); color:white; text-decoration:none; font-weight:800; }
+    .button {
+      display:inline-block; padding:15px 26px; border-radius:12px; color:#04121d; text-decoration:none; font-weight:800;
+      background:linear-gradient(135deg,var(--blue),#5be0ff);
+      box-shadow:0 8px 24px rgba(45,168,255,.35), inset 0 1px 0 rgba(255,255,255,.4);
+      transition:transform .18s ease, box-shadow .18s ease;
+    }
+    .button:hover { transform:translateY(-2px); box-shadow:0 12px 32px rgba(45,168,255,.5), inset 0 1px 0 rgba(255,255,255,.5); }
     .hint { color:var(--muted); font-size:.9rem; }
     .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:18px; margin:28px 0; }
-    .card { background:color-mix(in srgb,var(--card) 92%,transparent); border:1px solid var(--line); border-radius:16px; padding:24px; }
+    .card {
+      background:linear-gradient(160deg,rgba(255,255,255,.05),rgba(255,255,255,.01)), color-mix(in srgb,var(--card) 88%,transparent);
+      backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px);
+      border:1px solid var(--line); border-radius:18px; padding:26px;
+      box-shadow:0 6px 24px rgba(0,0,0,.25);
+      transition:transform .2s ease, border-color .2s ease, box-shadow .2s ease;
+    }
+    .card:hover { transform:translateY(-3px); border-color:rgba(45,168,255,.45); box-shadow:0 14px 34px rgba(0,0,0,.35); }
     .support { border-color:var(--amber); }
     .video-card { margin:0 0 28px; text-align:center; }
-    video { width:100%; max-width:960px; border:1px solid var(--line); border-radius:12px; background:#000; }
-    .address { overflow-wrap:anywhere; padding:12px; border-radius:8px; background:#07111b; font-family:ui-monospace,monospace; }
+    video { width:100%; max-width:960px; border:1px solid var(--line); border-radius:14px; background:#000; box-shadow:0 10px 40px rgba(0,0,0,.4); }
+    .address { overflow-wrap:anywhere; padding:12px; border-radius:8px; background:#07111b; font-family:ui-monospace,monospace; border:1px solid var(--line); }
     .qr { width:180px; max-width:100%; padding:10px; background:white; border-radius:10px; }
-    footer { padding:30px 0 50px; color:var(--muted); border-top:1px solid var(--line); }
-    .legal { display:flex; flex-wrap:wrap; gap:8px 16px; margin-top:12px; }
-    a { color:#7bc8ff; }
+    footer { padding:30px 0 50px; color:var(--muted); border-top:1px solid var(--line); text-align:center; }
+    .legal { display:flex; flex-wrap:wrap; gap:8px 16px; margin-top:12px; justify-content:center; }
+    a { color:#7bc8ff; transition:color .15s ease; }
+    a:hover { color:#a6ddff; }
+    .visitor-counter { margin-top:22px; display:flex; flex-direction:column; align-items:center; gap:8px; }
+    .visitor-counter img { border-radius:8px; opacity:.9; }
   </style>
 </head>
 <body>
@@ -140,6 +172,10 @@
   <strong>Anbieter:</strong> SG, Wien, Österreich.<br>
   E-Mail: <a href="mailto:birdwithbeard@gmx.at">birdwithbeard@gmx.at</a><br>
   <a href="rechtliches/impressum.html">Impressum und Kontaktangaben</a>
+  <div class="visitor-counter">
+    <span class="hint">Besucherzähler dieser Seite</span>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Figarow.rtm-suite-testversion&left_color=%230d1b28&right_color=%232da8ff&left_text=Besucher" alt="Besucherzähler" loading="lazy">
+  </div>
 </footer>
 </body>
 </html>
