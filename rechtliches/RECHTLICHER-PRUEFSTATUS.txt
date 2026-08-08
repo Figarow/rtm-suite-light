@@ -1,0 +1,15 @@
+RECHTLICHER HINWEIS ZUM PRÜFSTATUS
+RTM Suite Testversion, Version 1.1
+Stand: 23. Juli 2026
+========================================
+
+Die rechtlichen Hinweise dieses Pakets (EULA, Haftungsbegrenzung,
+Datenschutzhinweise, Drittanbieterhinweise, Support- und Updatehinweise)
+wurden nach bestem Wissen erstellt. Eine individuelle anwaltliche Prüfung
+oder behördliche Bestätigung ihrer Rechtskonformität ist nicht erfolgt.
+
+Nutzer sind selbst dafür verantwortlich, die an ihrem Einsatzort und für
+ihren konkreten Einsatzzweck geltenden gesetzlichen Vorschriften zu prüfen
+und einzuhalten, insbesondere hinsichtlich der Berechtigung zur Durchführung
+von Netzwerk- und Sicherheitsprüfungen. Zwingende gesetzliche Rechte,
+insbesondere Verbraucherrechte, bleiben von diesem Hinweis unberührt.
